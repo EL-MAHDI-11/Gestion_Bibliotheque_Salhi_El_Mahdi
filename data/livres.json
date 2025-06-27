@@ -1,0 +1,90 @@
+[
+    {
+        "ISBN": "9780140449266",
+        "titre": "Les Mis\u00c3\u00a9rables",
+        "auteur": "Victor Hugo",
+        "annee": 1862,
+        "genre": "Roman",
+        "status": true
+    },
+    {
+        "ISBN": "9782070360024",
+        "titre": "L'\u00c3\u2030tranger",
+        "auteur": "Albert Camus",
+        "annee": 1942,
+        "genre": "Philosophie",
+        "status": true
+    },
+    {
+        "ISBN": "9782253006329",
+        "titre": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exup\u00c3\u00a9ry",
+        "annee": 1943,
+        "genre": "Conte",
+        "status": true
+    },
+    {
+        "ISBN": "9782266029580",
+        "titre": "1984",
+        "auteur": "George Orwell",
+        "annee": 1949,
+        "genre": "Science-fiction",
+        "status": true
+    },
+    {
+        "ISBN": "9782070368228",
+        "titre": "La Peste",
+        "auteur": "Albert Camus",
+        "annee": 1947,
+        "genre": "Roman",
+        "status": true
+    },
+    {
+        "ISBN": "9782070360536",
+        "titre": "Madame Bovary",
+        "auteur": "Gustave Flaubert",
+        "annee": 1857,
+        "genre": "Classique",
+        "status": true
+    },
+    {
+        "ISBN": "9780451524935",
+        "titre": "Le Meilleur des mondes",
+        "auteur": "Aldous Huxley",
+        "annee": 1932,
+        "genre": "Science-fiction",
+        "status": true
+    },
+    {
+        "ISBN": "9780743273565",
+        "titre": "Gatsby le Magnifique",
+        "auteur": "F. Scott Fitzgerald",
+        "annee": 1925,
+        "genre": "Roman",
+        "status": true
+    },
+    {
+        "ISBN": "9782070612758",
+        "titre": "Notre-Dame de Paris",
+        "auteur": "Victor Hugo",
+        "annee": 1831,
+        "genre": "Roman",
+        "status": true
+    },
+    {
+        "ISBN": "9782013229209",
+        "titre": "Le Comte de Monte-Cristo",
+        "auteur": "Alexandre Dumas",
+        "annee": 1845,
+        "genre": "Aventure",
+        "status": true
+    },
+    {
+        "ISBN": 12345,
+        "titre": "bad habits",
+        "auteur": "ma39eltch",
+        "annee": 2000,
+        "genre": "dev perso",
+        "status": true
+    }
+]

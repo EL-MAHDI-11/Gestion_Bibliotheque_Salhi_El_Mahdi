@@ -1,0 +1,57 @@
+[
+    {
+        "ID": 1,
+        "NOM": "Ahmed",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 2,
+        "NOM": "Fatima",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 3,
+        "NOM": "Youssef",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 4,
+        "NOM": "Sara",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 5,
+        "NOM": "Omar",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 6,
+        "NOM": "Nadia",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 7,
+        "NOM": "Ilyas",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 8,
+        "NOM": "Salma",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 9,
+        "NOM": "Mohamed",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 10,
+        "NOM": "Rania",
+        "livres_empruntes": []
+    },
+    {
+        "ID": 10,
+        "NOM": "Mahdi",
+        "livres_empruntes": []
+    }
+]
